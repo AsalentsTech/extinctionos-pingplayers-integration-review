@@ -1,0 +1,7 @@
+# This review repository is documentation-only. Deny everything unless listed.
+*
+!README.md
+!.gitignore
+!docs/
+docs/*
+!docs/*.md
